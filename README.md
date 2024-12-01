@@ -1,6 +1,6 @@
 # Slideshow
 
-![Logo](Project%20Images/logo.png)
+![Logo](Project Images/logo.png)
 
 Welcome to the **Slideshow** repository! This project demonstrates interactive and visually appealing web components built with **HTML**, **CSS**, and **JavaScript**.
 
