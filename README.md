@@ -5,8 +5,16 @@ Welcome to the **Slideshow** repository! This project demonstrates interactive a
 
 
 ## Table of Contents
-1. Dynamic Slideshow - Clickable + Automatic using HTML, CSS & JS
-2. Expandable Cards using HTML, CSS & JS
+1. Dynamic Slideshow
+   - Clickable
+   - Automatic
+   - HTML, CSS & JS used
+   - Completely Customised
+     
+3. Expandable Cards using HTML, CSS & JS
+   - Clickable
+   - HTML, CSS & JS used
+   - Completely Customised
 
 ---
 
