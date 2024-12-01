@@ -1,7 +1,7 @@
 # Slideshow
 Welcome to the **Slideshow** repository! This project demonstrates interactive and visually appealing web components built with **HTML**, **CSS**, and **JavaScript**.
 
-![HTML Badge](https://img.shields.io/badge/HTML-5-red) ![CSS Badge](https://img.shields.io/badge/CSS-3-blue) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![HTML Badge](https://img.shields.io/badge/HTML-red) ![CSS Badge](https://img.shields.io/badge/CSS-blue) ![JavaScript Badge](https://img.shields.io/badge/JS-yellow)
 
 
 ## Table of Contents
