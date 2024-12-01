@@ -1,12 +1,9 @@
 # Slideshow
-
-![Logo](Images/logo.png)
-
 Welcome to the **Slideshow** repository! This project demonstrates interactive and visually appealing web components built with **HTML**, **CSS**, and **JavaScript**.
 
 ## Table of Contents
-1. [Dynamic Slideshow - Clickable + Automatic using HTML, CSS & JS](#dynamic-slideshow)
-2. [Expandable Cards using HTML, CSS & JS](#expandable-cards)
+1. [Dynamic Slideshow - Clickable + Automatic using HTML, CSS & JS](#Dynamic-Slideshow)
+2. [Expandable Cards using HTML, CSS & JS](#Expandable Cards)
 
 ---
 
