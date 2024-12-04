@@ -23,7 +23,7 @@ Feel free to explore the repository and experiment with these interactive compon
 ---
 
 # SUBSCRIBE [Assam Coding & Vlogging](https://www.youtube.com/@AssamCodingVlogging) for more contents like this
-![Logo](Images/logo.png)
+![Logo](Logo.png)
 
 ---
 ## Thank You
